@@ -36,6 +36,7 @@ now adv java added as JDBC for a databases connections
   for that you 
 in this process we can connect java code to database and store a data by using jdbc process 
 for that connection driver must be required and then following processes :-
+  0.create connection by write root name and password thats really required
   1. driver initilize
   2. connection 
   3. statement create
