@@ -25,7 +25,8 @@ String , StringBuffer, StringBulder class
 exception
 multi threading
 collection
+static and default thethod in interface
 Stream interface 
 ForeEach
-java 9 feature 
+java 9 feature :- jshell, 
 now java 10 and java 11 are released
