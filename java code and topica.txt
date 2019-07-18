@@ -1,0 +1,27 @@
+hello guys following are core-java topic must you learn.... 
+introduction 
+jvm jdk & jre
+jit compiler
+feature 
+class and object 
+constructore
+declaration and access controll
+operator
+interface and abstract class
+inheritance (oops concept)
+abstraction
+encapsulation
+polymorphism
+gc 
+inner class
+object class
+lang pakage
+util packahe 
+lambda expresion
+method reference
+function interface
+generic class , annonimus class , 
+String , StringBuffer, StringBulder class
+exception
+multi threading
+collection
