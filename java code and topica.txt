@@ -29,3 +29,7 @@ Stream interface
 ForeEach
 java 9 feature 
 now java 10 and java 11 are released
+====================================================
+now adv java added as JDBC for a databases connections 
+  now you learn about Adv java 
+  for that you 
